@@ -9,10 +9,11 @@
 ## Installation
 
 1- You will need the following packages to connect your Express.js API to MYSQL database and insomnia application to test the API routes:
-https://www.npmjs.com/package/mysql2
-https://www.npmjs.com/package/sequelize
-https://www.npmjs.com/package/dotenv
-https://insomnia.rest/
+
+- https://www.npmjs.com/package/mysql2
+- https://www.npmjs.com/package/sequelize
+- https://www.npmjs.com/package/dotenv
+- https://insomnia.rest/
 
 2- Use the schema.sql file in the db folder to create your database using MySQL shell commands.
 
